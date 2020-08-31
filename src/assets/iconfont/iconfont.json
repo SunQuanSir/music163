@@ -1,0 +1,100 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1029968",
+      "name": "顺序播放",
+      "font_class": "shunxubofang",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "1090225",
+      "name": "返回箭头",
+      "font_class": "fanhuijiantou",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "1197720",
+      "name": "音乐列表",
+      "font_class": "yinleliebiao",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "1524078",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "3560699",
+      "name": "音量",
+      "font_class": "yinliang",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "5109583",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    },
+    {
+      "icon_id": "5399024",
+      "name": "关 闭",
+      "font_class": "guanbi1",
+      "unicode": "e505",
+      "unicode_decimal": 58629
+    },
+    {
+      "icon_id": "5766817",
+      "name": "列表-点",
+      "font_class": "liebiao-dian",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "6703660",
+      "name": "上一首",
+      "font_class": "previous",
+      "unicode": "e503",
+      "unicode_decimal": 58627
+    },
+    {
+      "icon_id": "6997336",
+      "name": "单曲循环",
+      "font_class": "danquxunhuan",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "8358867",
+      "name": "下一首",
+      "font_class": "next-music",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "11865005",
+      "name": "清除",
+      "font_class": "qingchu",
+      "unicode": "e861",
+      "unicode_decimal": 59489
+    },
+    {
+      "icon_id": "14180543",
+      "name": "分 享",
+      "font_class": "fenxiang",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    }
+  ]
+}
